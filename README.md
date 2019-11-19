@@ -11,7 +11,7 @@ Automatically sends set reminders on the chosen date via Whatsapp
 
 
 ## How to setup:
-1 Setup and enable Google sheets API. 
-2 Rename .env_template to .env
-3 Edit .env variables to match your environement
-4 Run docker-compose -f docker-compose.yml up -d
+1. Setup and enable Google sheets API. 
+2. Rename .env_template to .env
+3. Edit .env variables to match your environement
+4. Run docker-compose -f docker-compose.yml up -d
